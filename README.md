@@ -1,4 +1,4 @@
-# python-crawler
+# menu-scraper
 
 환경 설정
 ---
