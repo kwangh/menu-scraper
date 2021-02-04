@@ -3,7 +3,13 @@
 환경 설정
 ---
 - selenium
+  ```
+  pip install selenium
+  ```
 - chrome webdriver
+  - https://sites.google.com/a/chromium.org/chromedriver/downloads
+  - chrome version check
+    - chrome://version
 - python3
   - https://www.python.org/downloads/windows/
 - jupyter
