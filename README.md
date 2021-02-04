@@ -1,9 +1,16 @@
 # python-crawler
 
+환경 설정
+---
 - selenium
 - chrome webdriver
 - python3
+  - https://www.python.org/downloads/windows/
 - jupyter
+  - https://jupyter.org/install.html
+  ```
+  pip install jupyterlab
+  ```
 
 ## links
 - https://selenium-python.readthedocs.io/api.html#module-selenium.webdriver.remote.webelement
