@@ -17,6 +17,7 @@
   ```
   pip install jupyterlab
   ```
+  - https://blog.naver.com/mm9139/222231564615
 
 ## links
 - https://selenium-python.readthedocs.io/api.html#module-selenium.webdriver.remote.webelement
